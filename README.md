@@ -1,9 +1,6 @@
 # 📖 Introdução
 
-Este projeto foi criado para o curso de Desenvolvimento de Sistemas para Web, ministrado pelo docente [Julio Cezar Rutke](https://github.com/jrutke).
-
-O objetivo do projeto é desenvolver uma API em Java utilizando Spring Framework e integrá-la com Spring Data JPA e PostgreSQL.
-Os principais requisitos do projeto incluem a implementação de diferentes endpoints para realizar a criação, atualização, exclusão e busca de registros na base de dados.
+Este projeto foi criado para o curso de Desenvolvimento de Sistemas para Web, ministrado pelo docente [Julio Cezar Rutke](https://github.com/jrutke). O objetivo do projeto é desenvolver uma API em Java utilizando Spring Framework e integrá-la com Spring Data JPA e PostgreSQL. Os principais requisitos do projeto incluem a implementação de diferentes endpoints para realizar a criação, atualização, exclusão e busca de registros na base de dados. A finalidade da aplicação é o gereciamento de contatos.
 
 <br>
 
