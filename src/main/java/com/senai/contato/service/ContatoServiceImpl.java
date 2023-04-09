@@ -5,12 +5,12 @@ import com.senai.contato.entity.ContatoEntity;
 import com.senai.contato.exception.ResourceNotFoundException;
 import com.senai.contato.mapper.ContatoMapper;
 import com.senai.contato.repository.ContatoRepository;
+import jakarta.validation.ValidationException;
 import jakarta.validation.constraints.NotNull;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import javax.validation.ValidationException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
